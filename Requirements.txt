@@ -1,0 +1,8 @@
+transformers==4.28.0
+torch==2.0.1
+numpy==1.24.2
+random==0.1.2
+easse==0.2.4
+pickle-mixin==1.0.2
+jsonlines==3.1.0
+datasets==2.10.1
